@@ -1,6 +1,6 @@
 ## Mihir Gupta
 
-**'Creating Apps, Shaping Futures (Mobile App Developer/iOS/Cross Platform)'**
+**`Creating Apps, Shaping Futures (Mobile App Developer/iOS/Cross Platform)`**
 
 I'm an experienced iOS developer with a proven track record of independently managing full-cycle app development. Currently serving as the product owner and sole developer of an educational game for a non-profit associated with Arizona State University, I oversee every aspect of design, development, and deployment using Unity and Swift. My portfolio includes creating impactful solutions like Text A Reminder, a productivity iOS app for small businesses, and collaborating on NGO projects to improve literacy for underprivileged children. Skilled in Agile methodologies, I specialize in crafting user-focused, innovative mobile applications.
 
