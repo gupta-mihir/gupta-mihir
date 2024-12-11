@@ -36,7 +36,7 @@ I'm an experienced iOS developer with a proven track record of independently man
 
 ---
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gupta-mihir&layout=compact&theme=vision-friendly-dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gupta-mihir&layout=compact&theme=vision-friendly-dark)
 <!--
 
 **gupta-mihir/gupta-mihir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
