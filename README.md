@@ -24,7 +24,7 @@ I'm an experienced iOS developer with a proven track record of independently man
 #
 
 ### 🚀 Latest Projects  
-![Text A Reminder Preview](text-reminder-logo.jpg)(https://apps.apple.com/us/app/text-a-reminder/id6468889952)
+[![Text A Reminder Preview](text-reminder-logo.jpg)](https://apps.apple.com/us/app/text-a-reminder/id6468889952)
 #### [Text A Reminder](https://apps.apple.com/us/app/text-a-reminder/id6468889952)  
 *Text A Reminder* is a productivity app designed for small business professionals to manage appointment scheduling and reminders via SMS. Built with Swift and integrated with Firebase and iOS Calendar (EventKit API), this app simplifies client communication with automated reminders sent through iMessage.  
 
