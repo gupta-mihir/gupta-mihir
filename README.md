@@ -2,7 +2,7 @@
 
 **`Creating Apps, Shaping Futures (Mobile App Developer/iOS/Cross Platform)`**
 
-I'm an experienced iOS developer with a proven track record of independently managing full-cycle app development. Currently serving as the product owner and sole developer of an educational game for a non-profit associated with Arizona State University, I oversee every aspect of design, development, and deployment using Unity and Swift. My portfolio includes creating impactful solutions like Text A Reminder, a productivity iOS app for small businesses, and collaborating on NGO projects to improve literacy for underprivileged children. Skilled in Agile methodologies, I specialize in crafting user-focused, innovative mobile applications.
+I'm an experienced iOS developer with a proven track record of independently managing full-cycle app development. Currently serving as the Product Owner and Lead Developer of an educational game for a non-profit start up, associated with Arizona State University, I oversee every aspect of design, development, and deployment using Unity and Swift. My portfolio includes creating impactful solutions like Text A Reminder, a productivity iOS app for small businesses, and collaborating on NGO projects to improve literacy for underprivileged children. Skilled in Agile methodologies, I specialize in crafting user-focused, innovative mobile applications.
 
 ---
 
@@ -28,6 +28,10 @@ I'm an experienced iOS developer with a proven track record of independently man
 #
 
 ### 🚀 Latest Projects  
+[![Spot the Scammer Preview](text-reminder-logo.jpg)](https://apps.apple.com/us/app/text-a-reminder/id6468889952)
+#### [Text A Reminder](https://apps.apple.com/us/app/text-a-reminder/id6468889952)  
+*Spot the Scammer* is a an educational mobile game designed for iOS devices.
+
 [![Text A Reminder Preview](text-reminder-logo.jpg)](https://apps.apple.com/us/app/text-a-reminder/id6468889952)
 #### [Text A Reminder](https://apps.apple.com/us/app/text-a-reminder/id6468889952)  
 *Text A Reminder* is a productivity app designed for small business professionals to manage appointment scheduling and reminders via SMS. Built with Swift and integrated with Firebase and iOS Calendar (EventKit API), this app simplifies client communication with automated reminders sent through iMessage.  
