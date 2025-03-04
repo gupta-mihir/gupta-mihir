@@ -28,7 +28,7 @@ I'm an experienced iOS developer with a proven track record of independently man
 #
 
 ### 🚀 Latest Projects  
-[![Spot the Scammer Preview](spot-scam-preview.png)]((https://apps.apple.com/us/app/spot-the-scammer/id6738750208))
+[![Spot the Scammer Preview](spot-scam-preview.png)](https://apps.apple.com/us/app/spot-the-scammer/id6738750208))
 #### [Spot the Scammer](https://apps.apple.com/us/app/spot-the-scammer/id6738750208)  
 *Spot the Scammer* is a an educational mobile game designed for iOS devices, designed to teach users of all ages how to protect themselves from digital scams. I was the Lead iOS Developer and Product Owner of this app. 
 
