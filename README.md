@@ -41,7 +41,6 @@ I'm an experienced iOS developer with a proven track record of independently man
 ---
 ### :fire: My Stats :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gupta-mihir&layout=compact&theme=vision-friendly-dark)
-![Profile Views](https://komarev.com/ghpvc/?username=gupta-mihir&color=blue)
 
 <!--
 
